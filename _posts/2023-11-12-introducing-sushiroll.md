@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Revolutionizing Social Networking: Introducing Sushiroll by NOZO.tech"
+excerpt: "In the fast-paced realm of digital connectivity, where major social networking sites dominate the landscape, NOZO.tech emerges as a refreshing disruptor with its groundbreaking project, Sushiroll."
 ---
 [repo]: https://github.com/nozo-tech/sushiroll
 
