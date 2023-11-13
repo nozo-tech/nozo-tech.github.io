@@ -2,9 +2,9 @@
 layout: post
 title: "Revolutionizing Social Networking: Introducing Sushiroll by NOZO.tech"
 ---
+[repo]: https://github.com/nozo-tech/sushiroll
 
-![Sushiroll on GitHub](https://img.shields.io/badge/Check%20it%20out%20on%20GitHub!-106295?style=flat-square&logo=github&link=https%3A%2F%2Fgithub.com%2Fnozo-tech%2Fsushiroll)
-
+[![Check it out on GitHub!](https://img.shields.io/badge/Check%20it%20out%20on%20GitHub!-106295?style=flat-square&logo=github)][repo]
 
 In the fast-paced realm of digital connectivity, where major social networking sites dominate the landscape, NOZO.tech emerges as a refreshing disruptor with its groundbreaking project, Sushiroll. More than just a platform, Sushiroll is a vision born out of the collective ambition of our talented team of tech enthusiasts in Colombia. It is designed to revolutionize the way we connect, share, and engage online by challenging giants like YouTube, Reddit, and Twitter. Let's dive into the world of Sushiroll and explore how it is set to redefine the social networking experience.
 
@@ -36,4 +36,4 @@ As Sushiroll takes its first steps into the competitive arena of social networki
 
 In conclusion, Sushiroll is more than a project; it is a testament to the passion and dedication of the NOZO.tech team. As we embark on this journey to redefine social networking, we invite users to join us in creating a digital space that celebrates connectivity, creativity, and community. Together, let's roll into a future where Sushiroll is not just a name but a symbol of a better, more enriching online experience.
 
-![Sushiroll on GitHub](https://img.shields.io/badge/Check%20it%20out%20on%20GitHub!-106295?style=flat-square&logo=github&link=https%3A%2F%2Fgithub.com%2Fnozo-tech%2Fsushiroll)
+[![Check it out on GitHub!](https://img.shields.io/badge/Check%20it%20out%20on%20GitHub!-106295?style=flat-square&logo=github&link=https%3A%2F%2Fgithub.com%2Fnozo-tech%2Fsushiroll)][repo]
